@@ -1,0 +1,174 @@
+ [
+    
+    {
+        "id": "abrigo-01",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/Abrigos/1.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Abrigo 02",
+        "imagen": "./img/Abrigos/2.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Abrigo 03",
+        "imagen": "./img/Abrigos/3.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo 04",
+        "imagen": "./img/Abrigos/4.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Abrigo 05",
+        "imagen": "./img/Abrigos/5.png",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Remera 01",
+        "imagen": "./img/Remeras/1.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Remera 02",
+        "imagen": "./img/Remeras/2.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 300
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Remera 03",
+        "imagen": "./img/Remeras/3.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 250
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Remera 04",
+        "imagen": "./img/Remeras/4.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 450
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Remera 05",
+        "imagen": "./img/Remeras/5.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Remera 06",
+        "imagen": "./img/Remeras/6.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 550
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalon 01",
+        "imagen": "./img/Pantalones/1.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalon 02",
+        "imagen": "./img/Pantalones/2.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalon 03",
+        "imagen": "./img/Pantalones/3.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalon 04",
+        "imagen": "./img/Pantalones/4.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalon 05",
+        "imagen": "./img/Pantalones/5.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Pantalon 06",
+        "imagen": "./img/Pantalones/6.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1600
+    }
+    
+]
